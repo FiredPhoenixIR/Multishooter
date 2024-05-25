@@ -1,2 +1,2 @@
 # Multishooter
- 3rd-Person Multishooter
+ Third-person Multiplayer Shooter
